@@ -1,0 +1,21 @@
+1) What is Angular JS?
+2) What is Angular1 
+3) What is the difference between Angular 1 and 2?
+4) Type Script Vs Java Script
+5) Scripting Language and Programming Language - Differences
+6) Expressions you know Angular 1
+7) ng-bind
+8) ng-unit
+9) Out of 100, 
+10) Concurrency in Angular 1
+12) Concurrency in C#
+13) How do you share data between controllers?
+14) Multithreading
+15) Can we override run() method?
+16) What is HTTP Server?
+17) HTTP and HTTPS
+18) How do they provide security?
+19) Routing in Angular
+20) How many years will be with your organization?
+21) What is your long term goal?
+22) Why .NET?

@@ -1,0 +1,26 @@
+
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        var myObj = JSON.parse(this.responseText);
+        document.getElementById("demo").innerHTML = myObj[0].name;
+    }
+};
+xmlhttp.open("GET", "ex.js", true);
+xmlhttp.send();
+
+</script>
+
+
+<p>Take a look at <a href="ex.js" target="_blank">json_demo.txt</a></p>
+
+
+</body>
+</html>
